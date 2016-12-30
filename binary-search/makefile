@@ -1,0 +1,2 @@
+run:
+	Node binarysearch.js
